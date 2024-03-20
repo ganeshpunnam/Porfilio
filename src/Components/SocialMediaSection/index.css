@@ -1,0 +1,35 @@
+.socialmedia{
+    display: flex;
+    align-items: center;
+     column-gap: 20px;
+     background-color: rgba(249, 249, 249, 0.28);
+     backdrop-filter: blur(13.2px);
+        margin: 0;
+        display: flex;
+        justify-content: space-between;
+        list-style-type: none;
+        border: 1px solid #ffffff;
+        padding: 15px;
+        border-radius: 10px;  
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        box-sizing: border-box;
+
+}
+a{
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: 600;
+    
+}
+.imgparent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#imag {
+    width: 25px;
+    margin-right: 10px;
+  }
+
