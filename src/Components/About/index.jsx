@@ -28,7 +28,7 @@ const skillsData = [
   },
   {
     id: 6,
-    name: 'Node',
+    name: 'Spring',
   },
 
   {
@@ -41,17 +41,17 @@ const educationData = [
   {
     id: 0,
     qualification: 'Graduation',
-    qualificationSource: 'B.Tech(Computer Science)',
+    qualificationSource: 'B.Tech',
   },
   {
     id: 1,
-    qualification: 'Intermediate',
-    qualificationSource: 'St.Ann’s Jr College',
+    qualification: 'Diploma',
+    qualificationSource: 'Bvc Engineering College',
   },
   {
     id: 2,
     qualification: 'High School',
-    qualificationSource: 'Kimberley EM School',
+    qualificationSource: 'Zpp High School',
   },
 ];
 
